@@ -73,11 +73,46 @@ async function scrapeOlx(url = 'https://www.olx.in/thiruvananthapuram_g4058889/f
         }
         elements = Object.values(elements).map(item => {
           item.url = itemUrlObj[item.id] || item.url;
+          item.url = itemUrlObj[item.id] || item.url;
+          item.phone = null; // Placeholder for phone number
+          item.user_name = null; // Placeholder for user name
           return item;
         });
         // Save appObjRaw as JSON for GitHub Action
+        // Fetch phone numbers for each user
+        for (let i = 0; i < elements.length; i++) {
+          const userId = elements[i].user_id;
+          if (userId) {
+            try {
+              const userApiUrl = `https://www.olx.in/api/v3/users/${userId}`;
+              const userResponse = await page.goto(userApiUrl, { waitUntil: 'networkidle2', timeout: 20000 });
+              const userJson = await userResponse.json();
+              // Improved phone and user name extraction logic
+              if (userJson && userJson.data) {
+                // Phone
+                if (userJson.data.phone) {
+                  elements[i].phone = userJson.data.phone;
+                } else if (
+                  userJson.data.contacts &&
+                  Array.isArray(userJson.data.contacts.phones) &&
+                  userJson.data.contacts.phones.length > 0
+                ) {
+                  elements[i].phone = userJson.data.contacts.phones[0];
+                }
+                // User name
+                if (userJson.data.name) {
+                  elements[i].user_name = userJson.data.name;
+                } else if (userJson.data.first_name || userJson.data.last_name) {
+                  elements[i].user_name = ((userJson.data.first_name || '') + ' ' + (userJson.data.last_name || '')).trim();
+                }
+              }
+            } catch (e) {
+              // Ignore fetch errors, keep phone and user_name as null
+            }
+          }
+        }
         fs.writeFileSync(outputFile, JSON.stringify(elements), 'utf-8');
-        console.log(`✅ appObjRaw saved to ${outputFile}`);
+        console.log(`✅ appObjRaw with phones saved to ${outputFile}`);
       } catch (e) {
         console.error('Failed to parse window.__APP JS object:', e);
         console.error('Stack:', e.stack);
