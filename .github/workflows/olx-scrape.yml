@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo with push access
         uses: actions/checkout@v3
         with:
-          token: ${{ variables.PAT_TOKEN }}
+          token: ${{ vars.PAT_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
