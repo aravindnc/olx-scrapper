@@ -5,7 +5,10 @@ const { exit } = require('process');
 async function scrapeOlx(url = 'https://www.olx.in/thiruvananthapuram_g4058889/for-sale-houses-apartments_c1725?sorting=desc-creation&filter=rooms_eq_3', outputFile = 'output.json') {
   let browser;
   try {
-    browser = await puppeteer.launch({ headless: true });
+    browser = await puppeteer.launch({ headless: true, args: [
+    '--no-sandbox',
+    '--disable-setuid-sandbox'
+  ] });
     const page = await browser.newPage();
     await page.setUserAgent(
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
