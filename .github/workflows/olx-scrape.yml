@@ -23,8 +23,10 @@ jobs:
       - name: Run OLX Scraper
         run: node main.js
 
-      - name: Upload output.json
-        uses: actions/upload-artifact@v4
-        with:
-          name: olx-output
-          path: output.json
+      - name: Commit and push output.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.json
+          git commit -m "Update output.json [skip ci]" || echo "No changes to commit"
+          git push
