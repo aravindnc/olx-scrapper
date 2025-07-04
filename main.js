@@ -71,22 +71,25 @@ async function scrapeOlx(url = 'https://www.olx.in/thiruvananthapuram_g4058889/f
           await browser.close();
           return;
         }
-        elements = Object.values(elements).map(item => {
-          item.url = itemUrlObj[item.id] || item.url;
-          item.url = itemUrlObj[item.id] || item.url;
-          item.phone = null; // Placeholder for phone number
-          item.user_name = null; // Placeholder for user name
-          return item;
-        });
+        elements = Object.values(elements)
+          .filter(item => item.price && item.price.value && typeof item.price.value.raw === 'number' && item.price.value.raw < 5000000)
+          .map(item => {
+            item.url = itemUrlObj[item.id] || item.url;
+            item.phone = null; // Placeholder for phone number
+            item.user_name = null; // Placeholder for user name
+            return item;
+          });
         // Save appObjRaw as JSON for GitHub Action
         // Fetch phone numbers for each user
         for (let i = 0; i < elements.length; i++) {
           const userId = elements[i].user_id;
           if (userId) {
             try {
+              console.log(`Fetching phone and user name for user ID: ${userId}`);
               const userApiUrl = `https://www.olx.in/api/v3/users/${userId}`;
               const userResponse = await page.goto(userApiUrl, { waitUntil: 'networkidle2', timeout: 20000 });
-              const userJson = await userResponse.json();
+              const userJson = await userResponse.json();              
+              // console.log(userJson);
               // Improved phone and user name extraction logic
               if (userJson && userJson.data) {
                 // Phone
