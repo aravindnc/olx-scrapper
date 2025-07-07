@@ -1,0 +1,34 @@
+name: OLX Scrape
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */8 * * *' # Runs every 7 hours
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo with push access
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install puppeteer
+
+      - name: Run OLX Scraper
+        run: node 99acres.js
+
+      - name: Commit and push output-99acres.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.json
+          git commit -m "Update output.json [skip ci]" || echo "No changes to commit"
+          git push
