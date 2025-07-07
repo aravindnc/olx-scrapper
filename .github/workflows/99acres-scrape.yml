@@ -1,4 +1,4 @@
-name: OLX Scrape
+name: 99 Acres Scrape
 
 on:
   workflow_dispatch:
