@@ -3,7 +3,7 @@ name: OLX Scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */8 * * *' # Runs every 8 hours
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
   scrape:

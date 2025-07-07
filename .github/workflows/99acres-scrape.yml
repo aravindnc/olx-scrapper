@@ -3,7 +3,7 @@ name: 99 Acres Scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 7 hours
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
   scrape:
