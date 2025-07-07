@@ -40,7 +40,7 @@ async function scrape(url = 'https://www.99acres.com/search/property/buy/residen
         }
 
         // write to output file
-        fs.writeFileSync(outputFile, elements, 'utf-8');
+        fs.writeFileSync(outputFile, JSON.stringify(elements), 'utf-8');
         
       } catch (e) {
         console.error('Failed to parse window.__APP JS object:', e);
