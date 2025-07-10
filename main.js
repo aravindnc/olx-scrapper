@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { exit } = require('process');
 
-async function scrapeOlx(url = 'https://www.olx.in/thiruvananthapuram_g4058889/for-sale-houses-apartments_c1725?sorting=desc-creation&filter=rooms_eq_3', outputFile = 'output.json') {
+async function scrapeOlx(url = 'https://www.olx.in/thiruvananthapuram_g4058889/for-sale-houses-apartments_c1725?sorting=desc-creation', outputFile = 'output.json') {
   let browser;
   try {
     browser = await puppeteer.launch({ headless: true, args: [
