@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { exit } = require('process');
 
-async function scrape(url = 'https://www.99acres.com/search/property/buy/residential-all/trivandrum?city=138&property_type=2%2C3%2C4%2C22%2C80%2C90&preference=S&area_unit=1&res_com=R&sortby=date_d', outputFile = 'output-99acres.json') {
+async function scrape(url = 'https://www.99acres.com/search/property/rent/residential-apartments/kazhakootam?city=138&locality=10310&property_type=1&preference=R&budget_min=0&res_com=R&isPreLeased=N', outputFile = 'output-99acres.json') {
   let browser;
   try {
     browser = await puppeteer.launch({ headless: true, args: [
