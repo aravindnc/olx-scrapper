@@ -1,12 +1,12 @@
 [
   {
-    "id": "1855201182",
-    "score": 0.9232245681381958,
+    "id": "1855202328",
+    "score": 0.9233716475095786,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -25,34 +25,34 @@
     "category_id": "1723",
     "user": {
       "verified_badge": {
-        "is_eligible": true
+        "is_eligible": false
       },
       "features": []
     },
-    "ad_id": "1855201182",
+    "ad_id": "1855202328",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Harikumar R",
+    "user_name": "rekha c nair",
     "has_phone_param": true,
-    "description": "2BHK for rent, 2 houses available on first and second floor each. Interested people please contact",
-    "created_at": "2026-09-10T10:56:21+05:30",
+    "description": "House for rent. Easily accessible to railway station and bus terminal. Near to museum police station. Near to nims hospital.24*7 water available",
+    "created_at": "2026-09-10T11:01:54+05:30",
     "videos": [],
-    "title": "2BHK for rent at Anayara",
+    "title": "1500sqft multistoried 3bhk residential building with 2 spacious hall",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 15000,
+        "raw": 25000,
         "currency": {
           "iso_4217": "INR",
           "pre": "₹",
           "locale": "hi_IN"
         },
-        "display": "₹ 15,000"
+        "display": "₹ 25,000"
       },
       "key_name": "Price",
       "key": "price"
@@ -63,141 +63,33 @@
       {
         "width": 810,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/bp3okd5qq1xy1-IN/image",
         "full": {
           "width": 1080,
           "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=1080x1440"
+          "url": "https://apollo.olx.in:443/v1/files/bp3okd5qq1xy1-IN/image;s=1080x1440"
         },
         "big": {
           "width": 505,
           "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=505x673"
+          "url": "https://apollo.olx.in:443/v1/files/bp3okd5qq1xy1-IN/image;s=505x673"
         },
         "medium": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/bp3okd5qq1xy1-IN/image;s=120x160"
         },
         "small": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/bp3okd5qq1xy1-IN/image;s=120x160"
         },
-        "id": "2137922077",
-        "external_id": "s0hqfyu3cac22-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=120x160"
-        },
-        "id": "2137922078",
-        "external_id": "e0r748jhcz3g1-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=120x160"
-        },
-        "id": "2137922079",
-        "external_id": "y902r21xtjuj-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=120x160"
-        },
-        "id": "2137922080",
-        "external_id": "gry9ucrhdbvt1-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=120x160"
-        },
-        "id": "2137922081",
-        "external_id": "g3vtl6jxwr2b3-IN"
+        "id": "2137932827",
+        "external_id": "bp3okd5qq1xy1-IN"
       }
     ],
     "certified_car": false,
-    "user_created_at": "2017-04-09T14:44:39+05:30",
+    "user_created_at": "2019-07-15T16:18:29+05:30",
     "is_kyc_verified_user": false,
     "locations_resolved": {
       "COUNTRY_id": "1000001",
@@ -206,50 +98,50 @@
       "ADMIN_LEVEL_1_name": "Kerala",
       "ADMIN_LEVEL_3_id": "4058889",
       "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
-      "SUBLOCALITY_LEVEL_1_id": "5317194",
-      "SUBLOCALITY_LEVEL_1_name": "Anayara"
+      "SUBLOCALITY_LEVEL_1_id": "5459232",
+      "SUBLOCALITY_LEVEL_1_name": "Nandavanam"
     },
-    "main_info": "2 BHK - 2 Bathroom - 1200 sqft",
+    "main_info": "3 BHK - 3 Bathroom - 1500 sqft",
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-09-10T05:26:21+0000",
+    "display_date": "2026-09-10T05:31:54+0000",
     "isSpinViewAvailable": false,
-    "user_id": "161333851",
-    "created_at_first": "2026-09-10T10:51:07+05:30",
+    "user_id": "420025328",
+    "created_at_first": "2026-09-10T11:01:54+05:30",
     "locations": [
       {
         "attributes": {},
         "lat": 8.505,
-        "lon": 76.916,
+        "lon": 76.953,
         "region_id": "2001160",
         "city_id": "4058889",
-        "district_id": "5317194"
+        "district_id": "5459232"
       }
     ],
     "parameters": [
       {
         "type": "single",
         "key": "type",
-        "value_name": "Independent / Builder Floors",
-        "value": "floors",
+        "value_name": "Individual House / Villa",
+        "value": "houses",
         "key_name": "Type",
-        "formatted_value": "Independent / Builder Floors"
+        "formatted_value": "Individual House / Villa"
       },
       {
         "type": "single",
         "key": "rooms",
-        "value_name": "2",
-        "value": "2",
+        "value_name": "3",
+        "value": "3",
         "key_name": "BHK",
-        "formatted_value": "2"
+        "formatted_value": "3"
       },
       {
         "type": "single",
         "key": "bathrooms",
-        "value_name": "2",
-        "value": "2",
+        "value_name": "3",
+        "value": "3",
         "key_name": "Bathrooms",
-        "formatted_value": "2"
+        "formatted_value": "3"
       },
       {
         "type": "single",
@@ -270,26 +162,34 @@
       {
         "type": "single",
         "key": "ft",
-        "value_name": "1200",
-        "value": "1200",
+        "value_name": "1500",
+        "value": "1500",
         "key_name": "Super Builtup area sqft",
-        "formatted_value": "1200"
+        "formatted_value": "1500"
       },
       {
         "type": "single",
         "key": "carpetarea",
-        "value_name": "1000",
-        "value": "1000",
+        "value_name": "0",
+        "value": "0",
         "key_name": "Carpet Area sqft",
-        "formatted_value": "1000"
+        "formatted_value": "0"
       },
       {
         "type": "single",
         "key": "bachelors",
-        "value_name": "Yes",
-        "value": "yes",
+        "value_name": "No",
+        "value": "no",
         "key_name": "Bachelors Allowed",
-        "formatted_value": "Yes"
+        "formatted_value": "No"
+      },
+      {
+        "type": "single",
+        "key": "maintenance",
+        "value_name": "25000",
+        "value": "25000",
+        "key_name": "Maintenance (Monthly)",
+        "formatted_value": "25000"
       },
       {
         "type": "single",
@@ -302,445 +202,48 @@
       {
         "type": "single",
         "key": "floorno",
-        "value_name": "1",
-        "value": "1",
+        "value_name": "2",
+        "value": "2",
         "key_name": "Floor No",
-        "formatted_value": "1"
+        "formatted_value": "2"
       },
       {
         "type": "single",
         "key": "carparking",
-        "value_name": "0",
-        "value": "0",
+        "value_name": "1",
+        "value": "1",
         "key_name": "Car Parking",
-        "formatted_value": "0"
-      },
-      {
-        "type": "single",
-        "key": "projects",
-        "value_name": "BRN Tower",
-        "value": "BRN Tower",
-        "key_name": "Project Name",
-        "formatted_value": "BRN Tower"
-      }
-    ],
-    "url": "https://www.olx.in/item/iid-1855201182",
-    "phone": null
-  },
-  {
-    "id": "1854219363",
-    "score": 0.9213051823416507,
-    "spell": {
-      "id": 112,
-      "key": "DISCERN_LOCATION_ES",
-      "version": "7",
-      "main": false,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "new": false,
-        "hot": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "1723",
-    "user": {
-      "verified_badge": {
-        "is_eligible": true
-      },
-      "features": [
-        {
-          "status": "EXPIRED",
-          "type": "ELITE_SELLER"
-        }
-      ]
-    },
-    "ad_id": "1854219363",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Shaji Mathew",
-    "has_phone_param": true,
-    "description": "SINGLE ROOM WITH ATTACHED BATHROOM FOR RENT AT GOWREESPATTOM, PATTOM.\n\n A well-maintained single room with an attached bathroom is available for rent in a peaceful and highly desirable residential area at Gowreespattom, Pattom.\n\n Property Highlights\n\nLadies only\nSingle room with attached bathroom\nSingle or double occupancy permitted\nMaximum 2 occupants\nIdeal for PG doctors, working ladies, and professionals\nFamilies not permitted\nPeaceful and safe residential neighborhood\n\n Common Facilities\n\nKitchen\nHall / Living Area\nDining Area\nSit-out\n\nExcellent residential location with easy access to major areas of Thiruvananthapuram.\n\nFor enquiries and viewing, please contact Smart Real Estate.",
-    "created_at": "2026-08-31T17:20:04+05:30",
-    "videos": [],
-    "title": "SINGLE ROOM WITH ATTACHED BATHROOM FOR RENT AT GOWREESPATTOM, PATTOM",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 9500,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "₹"
-        },
-        "display": "₹ 9,500"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": true,
-    "fair_price": false,
-    "images": [
-      {
-        "id": "2126283378",
-        "external_id": "esppwps5sg4k3-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/esppwps5sg4k3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/esppwps5sg4k3-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/esppwps5sg4k3-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/esppwps5sg4k3-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/esppwps5sg4k3-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283379",
-        "external_id": "1mgnftlsry3l-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/1mgnftlsry3l-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/1mgnftlsry3l-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/1mgnftlsry3l-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/1mgnftlsry3l-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/1mgnftlsry3l-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283380",
-        "external_id": "lg2zzvsgqob82-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/lg2zzvsgqob82-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/lg2zzvsgqob82-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/lg2zzvsgqob82-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/lg2zzvsgqob82-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/lg2zzvsgqob82-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283381",
-        "external_id": "bzi2lf1v20b4-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/bzi2lf1v20b4-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/bzi2lf1v20b4-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/bzi2lf1v20b4-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/bzi2lf1v20b4-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/bzi2lf1v20b4-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283382",
-        "external_id": "xcg66zkqmach2-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/xcg66zkqmach2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/xcg66zkqmach2-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/xcg66zkqmach2-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/xcg66zkqmach2-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/xcg66zkqmach2-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283383",
-        "external_id": "q8ax66dm1yxm2-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/q8ax66dm1yxm2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/q8ax66dm1yxm2-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/q8ax66dm1yxm2-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/q8ax66dm1yxm2-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/q8ax66dm1yxm2-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "2126283384",
-        "external_id": "g1clv36770m4-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/g1clv36770m4-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/g1clv36770m4-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/g1clv36770m4-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/g1clv36770m4-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/g1clv36770m4-IN/image;s=120x90"
-        }
-      }
-    ],
-    "certified_car": false,
-    "package": {
-      "id": "2020066"
-    },
-    "user_created_at": "2019-05-05T15:42:05",
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001160",
-      "ADMIN_LEVEL_1_name": "Kerala",
-      "ADMIN_LEVEL_3_id": "4058889",
-      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
-      "SUBLOCALITY_LEVEL_1_id": "5317247",
-      "SUBLOCALITY_LEVEL_1_name": "Pattom"
-    },
-    "main_info": "1 BHK - 1 Bathroom - 500 sqft",
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-08-31T11:48:43+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "411503417",
-    "created_at_first": "2026-08-31T17:18:40+05:30",
-    "locations": [
-      {
-        "attributes": {},
-        "lat": 8.518,
-        "lon": 76.941,
-        "region_id": "2001160",
-        "city_id": "4058889",
-        "district_id": "5317247"
-      }
-    ],
-    "parameters": [
-      {
-        "type": "single",
-        "key": "type",
-        "value_name": "Houses & Villas",
-        "value": "houses",
-        "key_name": "Type",
-        "formatted_value": "Houses & Villas"
-      },
-      {
-        "type": "single",
-        "key": "rooms",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "BHK",
         "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "bathrooms",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "Bathrooms",
-        "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "furnished",
-        "value_name": "Semi-Furnished",
-        "value": "semi",
-        "key_name": "Furnishing",
-        "formatted_value": "Semi-Furnished"
-      },
-      {
-        "type": "single",
-        "key": "listed_by",
-        "value_name": "Dealer",
-        "value": "broker",
-        "key_name": "Listed by",
-        "formatted_value": "Dealer"
-      },
-      {
-        "type": "single",
-        "key": "ft",
-        "value_name": "500",
-        "value": "500",
-        "key_name": "Super Builtup area sqft",
-        "formatted_value": "500"
-      },
-      {
-        "type": "single",
-        "key": "carpetarea",
-        "value_name": "450",
-        "value": "450",
-        "key_name": "Carpet Area sqft",
-        "formatted_value": "450"
-      },
-      {
-        "type": "single",
-        "key": "bachelors",
-        "value_name": "Yes",
-        "value": "yes",
-        "key_name": "Bachelors Allowed",
-        "formatted_value": "Yes"
-      },
-      {
-        "type": "single",
-        "key": "maintenance",
-        "value_name": "0",
-        "value": "0",
-        "key_name": "Maintenance (Monthly)",
-        "formatted_value": "0"
-      },
-      {
-        "type": "single",
-        "key": "totalfloors",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "Total Floors",
-        "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "carparking",
-        "value_name": "0",
-        "value": "0",
-        "key_name": "Car Parking",
-        "formatted_value": "0"
-      },
-      {
-        "type": "single",
-        "key": "floorno",
-        "value_name": "0",
-        "value": "0",
-        "key_name": "Floor No",
-        "formatted_value": "0"
       },
       {
         "type": "single",
         "key": "facing",
-        "value_name": "East",
-        "value": "east",
+        "value_name": "North",
+        "value": "north",
         "key_name": "Facing",
-        "formatted_value": "East"
+        "formatted_value": "North"
       },
       {
         "type": "single",
         "key": "projects",
-        "value_name": "smart real estate",
-        "value": "smart real estate",
+        "value_name": "House for rent",
+        "value": "House for rent",
         "key_name": "Project Name",
-        "formatted_value": "smart real estate"
+        "formatted_value": "House for rent"
       }
     ],
-    "url": "https://www.olx.in/item/iid-1854219363",
-    "phone": "+918547491680"
+    "url": "https://www.olx.in/item/iid-1855202328",
+    "phone": null
   },
   {
     "id": "1852515206",
-    "score": 0.9193857965451055,
+    "score": 0.921455938697318,
     "spell": {
       "id": 112,
       "key": "DISCERN_LOCATION_ES",
       "version": "7",
       "main": false,
-      "facet_disabled": false,
+      "facet_disabled": true,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
     },
@@ -1499,13 +1002,13 @@
   },
   {
     "id": "1853847876",
-    "score": 0.9174664107485605,
+    "score": 0.9195402298850575,
     "spell": {
       "id": 112,
       "key": "DISCERN_LOCATION_ES",
       "version": "7",
       "main": false,
-      "facet_disabled": false,
+      "facet_disabled": true,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
     },
@@ -1861,13 +1364,828 @@
     "phone": null
   },
   {
-    "id": "1852803009",
-    "score": 0.9155470249520153,
+    "id": "1850448117",
+    "score": 0.9176245210727969,
+    "spell": {
+      "id": 112,
+      "key": "DISCERN_LOCATION_ES",
+      "version": "7",
+      "main": false,
+      "facet_disabled": true,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "hot": false,
+        "new": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1723",
+    "user": {
+      "verified_badge": {
+        "is_eligible": true
+      },
+      "features": [
+        {
+          "status": "ACTIVE",
+          "type": "VERIFIED_BADGE"
+        }
+      ]
+    },
+    "ad_id": "1850448117",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Pradosh Sasidharan",
+    "has_phone_param": true,
+    "description": "Fully Furnished 2 Bhk house for rent in Kumarapuram ,Medical College, Thiruvanthapuram.\n23 K Including Electricity & Water. pipe line gas available , CCTV camera ,  Monthly rent and Daily rent available\n\nBrokers  pls\n\nTrivandrum International Airport - 3 Km\nMedical college Hospital - 2 Km\nRCC Hospital - 3 Km\nKIMS Hospital - 3 Km\nLulu mall  - 4 km\nRailway Station - 3 Km\nPadbhanabha swamy temple - 4 km\nVizhinjam Inter National Sea port - 19 km\nKovalam beach - 15 Km",
+    "created_at": "2026-09-08T18:26:29+05:30",
+    "videos": [],
+    "title": "Fully Furnished house for rent at kumarapuram , Thiruvanthapuram",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 25000,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "₹",
+          "locale": "hi_IN"
+        },
+        "display": "₹ 25,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "fair_price": false,
+    "images": [
+      {
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=120x67"
+        },
+        "id": "2085358396",
+        "external_id": "bp5eox89kyov1-IN"
+      },
+      {
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=120x67"
+        },
+        "id": "2085358397",
+        "external_id": "9hv7nuujpcve1-IN"
+      },
+      {
+        "width": 1080,
+        "height": 562,
+        "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 562,
+          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=1080x562"
+        },
+        "big": {
+          "width": 505,
+          "height": 262,
+          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=505x262"
+        },
+        "medium": {
+          "width": 120,
+          "height": 62,
+          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=120x62"
+        },
+        "small": {
+          "width": 120,
+          "height": 62,
+          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=120x62"
+        },
+        "id": "2087976891",
+        "external_id": "knjgtfebm2582-IN"
+      },
+      {
+        "width": 1080,
+        "height": 604,
+        "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 604,
+          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=1080x604"
+        },
+        "big": {
+          "width": 505,
+          "height": 282,
+          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=505x282"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=120x67"
+        },
+        "id": "2087976326",
+        "external_id": "e1znl12x0s4w3-IN"
+      },
+      {
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=120x90"
+        },
+        "id": "2136338642",
+        "external_id": "jtd4cjvh7b1j2-IN"
+      },
+      {
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=120x90"
+        },
+        "id": "2136338643",
+        "external_id": "v2uy4myo285i2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=120x160"
+        },
+        "id": "2136338644",
+        "external_id": "4v847y2qg6591-IN"
+      },
+      {
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=120x90"
+        },
+        "id": "2136338645",
+        "external_id": "28376izm74b81-IN"
+      },
+      {
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=120x90"
+        },
+        "id": "2136338646",
+        "external_id": "yvqpyc9pu02q2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=120x160"
+        },
+        "id": "2136338647",
+        "external_id": "7bjozrga3qzx1-IN"
+      }
+    ],
+    "certified_car": false,
+    "package": {
+      "id": "2016312"
+    },
+    "user_created_at": "2016-05-20T17:56:08",
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001160",
+      "ADMIN_LEVEL_1_name": "Kerala",
+      "ADMIN_LEVEL_3_id": "4058889",
+      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
+      "SUBLOCALITY_LEVEL_1_id": "5426865",
+      "SUBLOCALITY_LEVEL_1_name": "Kumarapuram"
+    },
+    "main_info": "2 BHK - 2 Bathroom - 1200 sqft",
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-09-02T08:19:41+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "93695949",
+    "created_at_first": "2026-07-25T11:01:29+05:30",
+    "locations": [
+      {
+        "attributes": {},
+        "lat": 8.512,
+        "lon": 76.925,
+        "region_id": "2001160",
+        "city_id": "4058889",
+        "district_id": "5426865"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Independent / Builder Floors",
+        "value": "floors",
+        "key_name": "Type",
+        "formatted_value": "Independent / Builder Floors"
+      },
+      {
+        "type": "single",
+        "key": "rooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "BHK",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "bathrooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Bathrooms",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "furnished",
+        "value_name": "Furnished",
+        "value": "yes",
+        "key_name": "Furnishing",
+        "formatted_value": "Furnished"
+      },
+      {
+        "type": "single",
+        "key": "listed_by",
+        "value_name": "Builder",
+        "value": "builder",
+        "key_name": "Listed by",
+        "formatted_value": "Builder"
+      },
+      {
+        "type": "single",
+        "key": "ft",
+        "value_name": "1200",
+        "value": "1200",
+        "key_name": "Super Builtup area sqft",
+        "formatted_value": "1200"
+      },
+      {
+        "type": "single",
+        "key": "carpetarea",
+        "value_name": "1200",
+        "value": "1200",
+        "key_name": "Carpet Area sqft",
+        "formatted_value": "1200"
+      },
+      {
+        "type": "single",
+        "key": "bachelors",
+        "value_name": "Yes",
+        "value": "yes",
+        "key_name": "Bachelors Allowed",
+        "formatted_value": "Yes"
+      },
+      {
+        "type": "single",
+        "key": "maintenance",
+        "value_name": "3000",
+        "value": "3000",
+        "key_name": "Maintenance (Monthly)",
+        "formatted_value": "3000"
+      },
+      {
+        "type": "single",
+        "key": "totalfloors",
+        "value_name": "3",
+        "value": "3",
+        "key_name": "Total Floors",
+        "formatted_value": "3"
+      },
+      {
+        "type": "single",
+        "key": "floorno",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Floor No",
+        "formatted_value": "1"
+      },
+      {
+        "type": "single",
+        "key": "carparking",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Car Parking",
+        "formatted_value": "1"
+      },
+      {
+        "type": "single",
+        "key": "facing",
+        "value_name": "East",
+        "value": "east",
+        "key_name": "Facing",
+        "formatted_value": "East"
+      },
+      {
+        "type": "single",
+        "key": "projects",
+        "value_name": "SSP",
+        "value": "SSP",
+        "key_name": "Project Name",
+        "formatted_value": "SSP"
+      }
+    ],
+    "url": "https://www.olx.in/item/iid-1850448117",
+    "phone": null
+  },
+  {
+    "id": "1855201182",
+    "score": 0.9157088122605364,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "hot": false,
+        "new": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1723",
+    "user": {
+      "verified_badge": {
+        "is_eligible": true
+      },
+      "features": []
+    },
+    "ad_id": "1855201182",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Harikumar R",
+    "has_phone_param": true,
+    "description": "2BHK for rent, 2 houses available on first and second floor each. Interested people please contact",
+    "created_at": "2026-09-10T10:56:21+05:30",
+    "videos": [],
+    "title": "2BHK for rent at Anayara",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "₹",
+          "locale": "hi_IN"
+        },
+        "display": "₹ 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "fair_price": false,
+    "images": [
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/s0hqfyu3cac22-IN/image;s=120x160"
+        },
+        "id": "2137922077",
+        "external_id": "s0hqfyu3cac22-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e0r748jhcz3g1-IN/image;s=120x160"
+        },
+        "id": "2137922078",
+        "external_id": "e0r748jhcz3g1-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/y902r21xtjuj-IN/image;s=120x160"
+        },
+        "id": "2137922079",
+        "external_id": "y902r21xtjuj-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/gry9ucrhdbvt1-IN/image;s=120x160"
+        },
+        "id": "2137922080",
+        "external_id": "gry9ucrhdbvt1-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/g3vtl6jxwr2b3-IN/image;s=120x160"
+        },
+        "id": "2137922081",
+        "external_id": "g3vtl6jxwr2b3-IN"
+      }
+    ],
+    "certified_car": false,
+    "user_created_at": "2017-04-09T14:44:39+05:30",
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001160",
+      "ADMIN_LEVEL_1_name": "Kerala",
+      "ADMIN_LEVEL_3_id": "4058889",
+      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
+      "SUBLOCALITY_LEVEL_1_id": "5317194",
+      "SUBLOCALITY_LEVEL_1_name": "Anayara"
+    },
+    "main_info": "2 BHK - 2 Bathroom - 1200 sqft",
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-09-10T05:26:21+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "161333851",
+    "created_at_first": "2026-09-10T10:51:07+05:30",
+    "locations": [
+      {
+        "attributes": {},
+        "lat": 8.505,
+        "lon": 76.916,
+        "region_id": "2001160",
+        "city_id": "4058889",
+        "district_id": "5317194"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Independent / Builder Floors",
+        "value": "floors",
+        "key_name": "Type",
+        "formatted_value": "Independent / Builder Floors"
+      },
+      {
+        "type": "single",
+        "key": "rooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "BHK",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "bathrooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Bathrooms",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "furnished",
+        "value_name": "Unfurnished",
+        "value": "no",
+        "key_name": "Furnishing",
+        "formatted_value": "Unfurnished"
+      },
+      {
+        "type": "single",
+        "key": "listed_by",
+        "value_name": "Owner",
+        "value": "owner",
+        "key_name": "Listed by",
+        "formatted_value": "Owner"
+      },
+      {
+        "type": "single",
+        "key": "ft",
+        "value_name": "1200",
+        "value": "1200",
+        "key_name": "Super Builtup area sqft",
+        "formatted_value": "1200"
+      },
+      {
+        "type": "single",
+        "key": "carpetarea",
+        "value_name": "1000",
+        "value": "1000",
+        "key_name": "Carpet Area sqft",
+        "formatted_value": "1000"
+      },
+      {
+        "type": "single",
+        "key": "bachelors",
+        "value_name": "Yes",
+        "value": "yes",
+        "key_name": "Bachelors Allowed",
+        "formatted_value": "Yes"
+      },
+      {
+        "type": "single",
+        "key": "totalfloors",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Total Floors",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "floorno",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Floor No",
+        "formatted_value": "1"
+      },
+      {
+        "type": "single",
+        "key": "carparking",
+        "value_name": "0",
+        "value": "0",
+        "key_name": "Car Parking",
+        "formatted_value": "0"
+      },
+      {
+        "type": "single",
+        "key": "projects",
+        "value_name": "BRN Tower",
+        "value": "BRN Tower",
+        "key_name": "Project Name",
+        "formatted_value": "BRN Tower"
+      }
+    ],
+    "url": "https://www.olx.in/item/iid-1855201182",
+    "phone": null
+  },
+  {
+    "id": "1852803009",
+    "score": 0.9137931034482759,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "9",
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -2095,12 +2413,12 @@
   },
   {
     "id": "1835550554",
-    "score": 0.9136276391554703,
+    "score": 0.9118773946360154,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -2575,12 +2893,12 @@
   },
   {
     "id": "1852801088",
-    "score": 0.9117082533589251,
+    "score": 0.9099616858237548,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -2800,12 +3118,12 @@
   },
   {
     "id": "1850163117",
-    "score": 0.9097888675623801,
+    "score": 0.9080459770114943,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -3241,12 +3559,12 @@
   },
   {
     "id": "1852799789",
-    "score": 0.9078694817658349,
+    "score": 0.9061302681992337,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -3474,12 +3792,12 @@
   },
   {
     "id": "1855196743",
-    "score": 0.9059500959692899,
+    "score": 0.9042145593869731,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -3818,12 +4136,12 @@
   },
   {
     "id": "1855196436",
-    "score": 0.9040307101727447,
+    "score": 0.9022988505747126,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -4351,12 +4669,12 @@
   },
   {
     "id": "1846475951",
-    "score": 0.9021113243761996,
+    "score": 0.9003831417624522,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -4963,12 +5281,12 @@
   },
   {
     "id": "1855195980",
-    "score": 0.9001919385796545,
+    "score": 0.8984674329501916,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -5461,12 +5779,12 @@
   },
   {
     "id": "1855193853",
-    "score": 0.8982725527831094,
+    "score": 0.896551724137931,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -5916,12 +6234,12 @@
   },
   {
     "id": "1855194890",
-    "score": 0.8963531669865643,
+    "score": 0.8946360153256705,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -6123,12 +6441,12 @@
   },
   {
     "id": "1854480143",
-    "score": 0.8944337811900192,
+    "score": 0.89272030651341,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -6438,12 +6756,12 @@
   },
   {
     "id": "1855194553",
-    "score": 0.8925143953934741,
+    "score": 0.8908045977011494,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -6882,12 +7200,12 @@
   },
   {
     "id": "1848181438",
-    "score": 0.8905950095969289,
+    "score": 0.8888888888888888,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -7279,12 +7597,12 @@
   },
   {
     "id": "1852103407",
-    "score": 0.8886756238003839,
+    "score": 0.8869731800766284,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -7676,12 +7994,12 @@
   },
   {
     "id": "1852007602",
-    "score": 0.8867562380038387,
+    "score": 0.8850574712643678,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -8423,1210 +8741,14 @@
     "phone": "+918075512225"
   },
   {
-    "id": "1855190243",
-    "score": 0.8848368522072937,
-    "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
-      "version": "9",
-      "main": false,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "hot": false,
-        "new": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "1723",
-    "user": {
-      "verified_badge": {
-        "is_eligible": true
-      },
-      "features": []
-    },
-    "ad_id": "1855190243",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Saji",
-    "has_phone_param": true,
-    "description": "2 BHK first floor semi furnished house \nHall ,kitchen \n2 bedroom attached \nNear PRS hospital Karamana \nNSS Karayogam road \nRent 12,000 per month \nBachelor's or family",
-    "created_at": "2026-09-10T08:43:50+05:30",
-    "videos": [],
-    "title": "2 BHK semi furnished  house Upstair Karamana",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 12000,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "₹",
-          "locale": "hi_IN"
-        },
-        "display": "₹ 12,000"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "fair_price": false,
-    "images": [
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=120x160"
-        },
-        "id": "2137811709",
-        "external_id": "j6bw9zsffkk41-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=120x160"
-        },
-        "id": "2137811710",
-        "external_id": "4xudxvgrltj7-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=120x160"
-        },
-        "id": "2137811711",
-        "external_id": "okzth6een4023-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=120x160"
-        },
-        "id": "2137811712",
-        "external_id": "srcuf7ql7ndn-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=120x160"
-        },
-        "id": "2137811713",
-        "external_id": "chglydir5hmt3-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=120x160"
-        },
-        "id": "2137811714",
-        "external_id": "rzzy9nl5pihf2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=120x160"
-        },
-        "id": "2137811715",
-        "external_id": "a29lsqct3cjw-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=120x160"
-        },
-        "id": "2137811716",
-        "external_id": "xtpa1nhij5ti-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=120x160"
-        },
-        "id": "2137811717",
-        "external_id": "4y23xorfh95g2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=120x160"
-        },
-        "id": "2137811718",
-        "external_id": "igfi4b8465n03-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=120x160"
-        },
-        "id": "2137811719",
-        "external_id": "hfbgmmzl0n122-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=120x160"
-        },
-        "id": "2137811720",
-        "external_id": "hlikgag237dd-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=120x160"
-        },
-        "id": "2137811721",
-        "external_id": "fcxjt15jpojf1-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=120x160"
-        },
-        "id": "2137811722",
-        "external_id": "9prq8zgfhpcp1-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=120x160"
-        },
-        "id": "2137811723",
-        "external_id": "qp3dftafmq9n2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=120x160"
-        },
-        "id": "2137811724",
-        "external_id": "cr33opf5u6kt-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=120x160"
-        },
-        "id": "2137811725",
-        "external_id": "nx7en54z2s3z2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=120x160"
-        },
-        "id": "2137811726",
-        "external_id": "zecsqgicsbeq3-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=120x160"
-        },
-        "id": "2137811727",
-        "external_id": "zw0f9mfvnr4k-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=120x160"
-        },
-        "id": "2137811728",
-        "external_id": "514wjyn79ha61-IN"
-      }
-    ],
-    "certified_car": false,
-    "user_created_at": "2018-07-23T16:18:29",
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001160",
-      "ADMIN_LEVEL_1_name": "Kerala",
-      "ADMIN_LEVEL_3_id": "4058889",
-      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
-      "SUBLOCALITY_LEVEL_1_id": "5317218",
-      "SUBLOCALITY_LEVEL_1_name": "Karamana"
-    },
-    "main_info": "2 BHK - 2 Bathroom - 650 sqft",
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-09-10T03:13:50+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "268891733",
-    "created_at_first": "2026-09-10T08:43:49+05:30",
-    "locations": [
-      {
-        "attributes": {},
-        "lat": 8.482,
-        "lon": 76.965,
-        "region_id": "2001160",
-        "city_id": "4058889",
-        "district_id": "5317218"
-      }
-    ],
-    "parameters": [
-      {
-        "type": "single",
-        "key": "type",
-        "value_name": "Flats / Apartments",
-        "value": "rent-apartments",
-        "key_name": "Type",
-        "formatted_value": "Flats / Apartments"
-      },
-      {
-        "type": "single",
-        "key": "rooms",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "BHK",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "bathrooms",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "Bathrooms",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "furnished",
-        "value_name": "Semi-Furnished",
-        "value": "semi",
-        "key_name": "Furnishing",
-        "formatted_value": "Semi-Furnished"
-      },
-      {
-        "type": "single",
-        "key": "listed_by",
-        "value_name": "Dealer",
-        "value": "broker",
-        "key_name": "Listed by",
-        "formatted_value": "Dealer"
-      },
-      {
-        "type": "single",
-        "key": "ft",
-        "value_name": "650",
-        "value": "650",
-        "key_name": "Super Builtup area sqft",
-        "formatted_value": "650"
-      },
-      {
-        "type": "single",
-        "key": "carpetarea",
-        "value_name": "700",
-        "value": "700",
-        "key_name": "Carpet Area sqft",
-        "formatted_value": "700"
-      },
-      {
-        "type": "single",
-        "key": "bachelors",
-        "value_name": "Yes",
-        "value": "yes",
-        "key_name": "Bachelors Allowed",
-        "formatted_value": "Yes"
-      },
-      {
-        "type": "single",
-        "key": "facing",
-        "value_name": "East",
-        "value": "east",
-        "key_name": "Facing",
-        "formatted_value": "East"
-      }
-    ],
-    "url": "https://www.olx.in/item/iid-1855190243",
-    "phone": null
-  },
-  {
-    "id": "1850448117",
-    "score": 0.8829174664107485,
-    "spell": {
-      "id": 112,
-      "key": "DISCERN_LOCATION_ES",
-      "version": "7",
-      "main": false,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "hot": false,
-        "new": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "1723",
-    "user": {
-      "verified_badge": {
-        "is_eligible": true
-      },
-      "features": [
-        {
-          "status": "ACTIVE",
-          "type": "VERIFIED_BADGE"
-        }
-      ]
-    },
-    "ad_id": "1850448117",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Pradosh Sasidharan",
-    "has_phone_param": true,
-    "description": "Fully Furnished 2 Bhk house for rent in Kumarapuram ,Medical College, Thiruvanthapuram.\n23 K Including Electricity & Water. pipe line gas available , CCTV camera ,  Monthly rent and Daily rent available\n\nBrokers  pls\n\nTrivandrum International Airport - 3 Km\nMedical college Hospital - 2 Km\nRCC Hospital - 3 Km\nKIMS Hospital - 3 Km\nLulu mall  - 4 km\nRailway Station - 3 Km\nPadbhanabha swamy temple - 4 km\nVizhinjam Inter National Sea port - 19 km\nKovalam beach - 15 Km",
-    "created_at": "2026-09-08T18:26:29+05:30",
-    "videos": [],
-    "title": "Fully Furnished house for rent at kumarapuram , Thiruvanthapuram",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 25000,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "₹",
-          "locale": "hi_IN"
-        },
-        "display": "₹ 25,000"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "fair_price": false,
-    "images": [
-      {
-        "width": 1080,
-        "height": 607,
-        "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 607,
-          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=1080x607"
-        },
-        "big": {
-          "width": 505,
-          "height": 283,
-          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=505x283"
-        },
-        "medium": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=120x67"
-        },
-        "small": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/bp5eox89kyov1-IN/image;s=120x67"
-        },
-        "id": "2085358396",
-        "external_id": "bp5eox89kyov1-IN"
-      },
-      {
-        "width": 1080,
-        "height": 607,
-        "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 607,
-          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=1080x607"
-        },
-        "big": {
-          "width": 505,
-          "height": 283,
-          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=505x283"
-        },
-        "medium": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=120x67"
-        },
-        "small": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/9hv7nuujpcve1-IN/image;s=120x67"
-        },
-        "id": "2085358397",
-        "external_id": "9hv7nuujpcve1-IN"
-      },
-      {
-        "width": 1080,
-        "height": 562,
-        "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 562,
-          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=1080x562"
-        },
-        "big": {
-          "width": 505,
-          "height": 262,
-          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=505x262"
-        },
-        "medium": {
-          "width": 120,
-          "height": 62,
-          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=120x62"
-        },
-        "small": {
-          "width": 120,
-          "height": 62,
-          "url": "https://apollo.olx.in:443/v1/files/knjgtfebm2582-IN/image;s=120x62"
-        },
-        "id": "2087976891",
-        "external_id": "knjgtfebm2582-IN"
-      },
-      {
-        "width": 1080,
-        "height": 604,
-        "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 604,
-          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=1080x604"
-        },
-        "big": {
-          "width": 505,
-          "height": 282,
-          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=505x282"
-        },
-        "medium": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=120x67"
-        },
-        "small": {
-          "width": 120,
-          "height": 67,
-          "url": "https://apollo.olx.in:443/v1/files/e1znl12x0s4w3-IN/image;s=120x67"
-        },
-        "id": "2087976326",
-        "external_id": "e1znl12x0s4w3-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/jtd4cjvh7b1j2-IN/image;s=120x90"
-        },
-        "id": "2136338642",
-        "external_id": "jtd4cjvh7b1j2-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/v2uy4myo285i2-IN/image;s=120x90"
-        },
-        "id": "2136338643",
-        "external_id": "v2uy4myo285i2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/4v847y2qg6591-IN/image;s=120x160"
-        },
-        "id": "2136338644",
-        "external_id": "4v847y2qg6591-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/28376izm74b81-IN/image;s=120x90"
-        },
-        "id": "2136338645",
-        "external_id": "28376izm74b81-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/yvqpyc9pu02q2-IN/image;s=120x90"
-        },
-        "id": "2136338646",
-        "external_id": "yvqpyc9pu02q2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/7bjozrga3qzx1-IN/image;s=120x160"
-        },
-        "id": "2136338647",
-        "external_id": "7bjozrga3qzx1-IN"
-      }
-    ],
-    "certified_car": false,
-    "package": {
-      "id": "2016312"
-    },
-    "user_created_at": "2016-05-20T17:56:08",
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001160",
-      "ADMIN_LEVEL_1_name": "Kerala",
-      "ADMIN_LEVEL_3_id": "4058889",
-      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
-      "SUBLOCALITY_LEVEL_1_id": "5426865",
-      "SUBLOCALITY_LEVEL_1_name": "Kumarapuram"
-    },
-    "main_info": "2 BHK - 2 Bathroom - 1200 sqft",
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-09-02T08:19:41+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "93695949",
-    "created_at_first": "2026-07-25T11:01:29+05:30",
-    "locations": [
-      {
-        "attributes": {},
-        "lat": 8.512,
-        "lon": 76.925,
-        "region_id": "2001160",
-        "city_id": "4058889",
-        "district_id": "5426865"
-      }
-    ],
-    "parameters": [
-      {
-        "type": "single",
-        "key": "type",
-        "value_name": "Independent / Builder Floors",
-        "value": "floors",
-        "key_name": "Type",
-        "formatted_value": "Independent / Builder Floors"
-      },
-      {
-        "type": "single",
-        "key": "rooms",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "BHK",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "bathrooms",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "Bathrooms",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "furnished",
-        "value_name": "Furnished",
-        "value": "yes",
-        "key_name": "Furnishing",
-        "formatted_value": "Furnished"
-      },
-      {
-        "type": "single",
-        "key": "listed_by",
-        "value_name": "Builder",
-        "value": "builder",
-        "key_name": "Listed by",
-        "formatted_value": "Builder"
-      },
-      {
-        "type": "single",
-        "key": "ft",
-        "value_name": "1200",
-        "value": "1200",
-        "key_name": "Super Builtup area sqft",
-        "formatted_value": "1200"
-      },
-      {
-        "type": "single",
-        "key": "carpetarea",
-        "value_name": "1200",
-        "value": "1200",
-        "key_name": "Carpet Area sqft",
-        "formatted_value": "1200"
-      },
-      {
-        "type": "single",
-        "key": "bachelors",
-        "value_name": "Yes",
-        "value": "yes",
-        "key_name": "Bachelors Allowed",
-        "formatted_value": "Yes"
-      },
-      {
-        "type": "single",
-        "key": "maintenance",
-        "value_name": "3000",
-        "value": "3000",
-        "key_name": "Maintenance (Monthly)",
-        "formatted_value": "3000"
-      },
-      {
-        "type": "single",
-        "key": "totalfloors",
-        "value_name": "3",
-        "value": "3",
-        "key_name": "Total Floors",
-        "formatted_value": "3"
-      },
-      {
-        "type": "single",
-        "key": "floorno",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "Floor No",
-        "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "carparking",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "Car Parking",
-        "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "facing",
-        "value_name": "East",
-        "value": "east",
-        "key_name": "Facing",
-        "formatted_value": "East"
-      },
-      {
-        "type": "single",
-        "key": "projects",
-        "value_name": "SSP",
-        "value": "SSP",
-        "key_name": "Project Name",
-        "formatted_value": "SSP"
-      }
-    ],
-    "url": "https://www.olx.in/item/iid-1850448117",
-    "phone": null
-  },
-  {
     "id": "1855094822",
-    "score": 0.8809980806142035,
+    "score": 0.8831417624521073,
     "spell": {
       "id": 112,
       "key": "DISCERN_LOCATION_ES",
       "version": "7",
       "main": false,
-      "facet_disabled": false,
+      "facet_disabled": true,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
     },
@@ -10118,13 +9240,13 @@
   },
   {
     "id": "1836055904",
-    "score": 0.8790786948176583,
+    "score": 0.8812260536398467,
     "spell": {
       "id": 112,
       "key": "DISCERN_LOCATION_ES",
       "version": "7",
       "main": false,
-      "facet_disabled": false,
+      "facet_disabled": true,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
     },
@@ -10861,13 +9983,1204 @@
     "phone": null
   },
   {
-    "id": "1855190012",
-    "score": 0.8771593090211133,
+    "id": "1854920144",
+    "score": 0.8793103448275862,
+    "spell": {
+      "id": 112,
+      "key": "DISCERN_LOCATION_ES",
+      "version": "7",
+      "main": false,
+      "facet_disabled": true,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "hot": false,
+        "new": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1723",
+    "user": {
+      "verified_badge": {
+        "is_eligible": true
+      },
+      "features": []
+    },
+    "ad_id": "1854920144",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Sivaprasad V Nair",
+    "has_phone_param": true,
+    "description": "2 BHK at Pattom near St'Marys School, Jyothi nagar, J 48, \n\nShall be used as back office / storage\n\nAvailable wardrobe in both room \nKitchen cupboard, \nResidential area\nGood neighborhood \nParking available.\n\nShall be used as back office / storage\n\nAdvance 50 K\nRent 11K",
+    "created_at": "2026-09-08T08:47:08+05:30",
+    "videos": [],
+    "title": "2 BHK near St Marys School, Pattom, Jyothi nagar 48,shall use office",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 11000,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "₹",
+          "locale": "hi_IN"
+        },
+        "display": "₹ 11,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "fair_price": false,
+    "images": [
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/spszqgat4dhl3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/spszqgat4dhl3-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/spszqgat4dhl3-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/spszqgat4dhl3-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/spszqgat4dhl3-IN/image;s=120x260"
+        },
+        "id": "2134622379",
+        "external_id": "spszqgat4dhl3-IN"
+      },
+      {
+        "width": 1080,
+        "height": 497,
+        "url": "https://apollo.olx.in:443/v1/files/sgt4z2wuwna11-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 497,
+          "url": "https://apollo.olx.in:443/v1/files/sgt4z2wuwna11-IN/image;s=1080x497"
+        },
+        "big": {
+          "width": 505,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/sgt4z2wuwna11-IN/image;s=505x232"
+        },
+        "medium": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/sgt4z2wuwna11-IN/image;s=120x55"
+        },
+        "small": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/sgt4z2wuwna11-IN/image;s=120x55"
+        },
+        "id": "2134622380",
+        "external_id": "sgt4z2wuwna11-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/o4q1x2mjte0s1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/o4q1x2mjte0s1-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/o4q1x2mjte0s1-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/o4q1x2mjte0s1-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/o4q1x2mjte0s1-IN/image;s=120x260"
+        },
+        "id": "2134622381",
+        "external_id": "o4q1x2mjte0s1-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/6jku6uzjj5t7-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/6jku6uzjj5t7-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/6jku6uzjj5t7-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/6jku6uzjj5t7-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/6jku6uzjj5t7-IN/image;s=120x260"
+        },
+        "id": "2134622382",
+        "external_id": "6jku6uzjj5t7-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ki0el6c89zx7-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/ki0el6c89zx7-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/ki0el6c89zx7-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/ki0el6c89zx7-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/ki0el6c89zx7-IN/image;s=120x260"
+        },
+        "id": "2134622383",
+        "external_id": "ki0el6c89zx7-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4180rbxybfiz1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/4180rbxybfiz1-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/4180rbxybfiz1-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/4180rbxybfiz1-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/4180rbxybfiz1-IN/image;s=120x260"
+        },
+        "id": "2134622384",
+        "external_id": "4180rbxybfiz1-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ggmdge6se2ka1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/ggmdge6se2ka1-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/ggmdge6se2ka1-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/ggmdge6se2ka1-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/ggmdge6se2ka1-IN/image;s=120x260"
+        },
+        "id": "2134622385",
+        "external_id": "ggmdge6se2ka1-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/rgmgrioi82yb2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/rgmgrioi82yb2-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/rgmgrioi82yb2-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/rgmgrioi82yb2-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/rgmgrioi82yb2-IN/image;s=120x260"
+        },
+        "id": "2134622386",
+        "external_id": "rgmgrioi82yb2-IN"
+      },
+      {
+        "width": 1080,
+        "height": 497,
+        "url": "https://apollo.olx.in:443/v1/files/7ayk6x6pq2cr3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 497,
+          "url": "https://apollo.olx.in:443/v1/files/7ayk6x6pq2cr3-IN/image;s=1080x497"
+        },
+        "big": {
+          "width": 505,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/7ayk6x6pq2cr3-IN/image;s=505x232"
+        },
+        "medium": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/7ayk6x6pq2cr3-IN/image;s=120x55"
+        },
+        "small": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/7ayk6x6pq2cr3-IN/image;s=120x55"
+        },
+        "id": "2134622387",
+        "external_id": "7ayk6x6pq2cr3-IN"
+      },
+      {
+        "width": 497,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/d3cby392qyut3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2346,
+          "url": "https://apollo.olx.in:443/v1/files/d3cby392qyut3-IN/image;s=1080x2346"
+        },
+        "big": {
+          "width": 505,
+          "height": 1097,
+          "url": "https://apollo.olx.in:443/v1/files/d3cby392qyut3-IN/image;s=505x1097"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/d3cby392qyut3-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/d3cby392qyut3-IN/image;s=120x260"
+        },
+        "id": "2134622388",
+        "external_id": "d3cby392qyut3-IN"
+      }
+    ],
+    "certified_car": false,
+    "package": {
+      "id": "2014325"
+    },
+    "user_created_at": "2018-06-21T11:27:28",
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001160",
+      "ADMIN_LEVEL_1_name": "Kerala",
+      "ADMIN_LEVEL_3_id": "4058889",
+      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
+      "SUBLOCALITY_LEVEL_1_id": "5317247",
+      "SUBLOCALITY_LEVEL_1_name": "Pattom"
+    },
+    "main_info": "2 BHK - 2 Bathroom - 900 sqft",
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-09-08T02:14:02+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "260897875",
+    "created_at_first": "2026-09-07T09:22:41+05:30",
+    "locations": [
+      {
+        "attributes": {},
+        "lat": 8.518,
+        "lon": 76.941,
+        "region_id": "2001160",
+        "city_id": "4058889",
+        "district_id": "5317247"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Flats / Apartments",
+        "value": "rent-apartments",
+        "key_name": "Type",
+        "formatted_value": "Flats / Apartments"
+      },
+      {
+        "type": "single",
+        "key": "rooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "BHK",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "bathrooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Bathrooms",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "furnished",
+        "value_name": "Semi-Furnished",
+        "value": "semi",
+        "key_name": "Furnishing",
+        "formatted_value": "Semi-Furnished"
+      },
+      {
+        "type": "single",
+        "key": "listed_by",
+        "value_name": "Owner",
+        "value": "owner",
+        "key_name": "Listed by",
+        "formatted_value": "Owner"
+      },
+      {
+        "type": "single",
+        "key": "ft",
+        "value_name": "900",
+        "value": "900",
+        "key_name": "Super Builtup area sqft",
+        "formatted_value": "900"
+      },
+      {
+        "type": "single",
+        "key": "carpetarea",
+        "value_name": "1000",
+        "value": "1000",
+        "key_name": "Carpet Area sqft",
+        "formatted_value": "1000"
+      },
+      {
+        "type": "single",
+        "key": "bachelors",
+        "value_name": "Yes",
+        "value": "yes",
+        "key_name": "Bachelors Allowed",
+        "formatted_value": "Yes"
+      },
+      {
+        "type": "single",
+        "key": "maintenance",
+        "value_name": "200",
+        "value": "200",
+        "key_name": "Maintenance (Monthly)",
+        "formatted_value": "200"
+      },
+      {
+        "type": "single",
+        "key": "totalfloors",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Total Floors",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "floorno",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Floor No",
+        "formatted_value": "1"
+      },
+      {
+        "type": "single",
+        "key": "carparking",
+        "value_name": "1",
+        "value": "1",
+        "key_name": "Car Parking",
+        "formatted_value": "1"
+      },
+      {
+        "type": "single",
+        "key": "facing",
+        "value_name": "North",
+        "value": "north",
+        "key_name": "Facing",
+        "formatted_value": "North"
+      },
+      {
+        "type": "single",
+        "key": "projects",
+        "value_name": "Madathuveedu",
+        "value": "Madathuveedu",
+        "key_name": "Project Name",
+        "formatted_value": "Madathuveedu"
+      }
+    ],
+    "url": "https://www.olx.in/item/iid-1854920144",
+    "phone": null
+  },
+  {
+    "id": "1855190243",
+    "score": 0.8773946360153256,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "hot": false,
+        "new": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1723",
+    "user": {
+      "verified_badge": {
+        "is_eligible": true
+      },
+      "features": []
+    },
+    "ad_id": "1855190243",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Saji",
+    "has_phone_param": true,
+    "description": "2 BHK first floor semi furnished house \nHall ,kitchen \n2 bedroom attached \nNear PRS hospital Karamana \nNSS Karayogam road \nRent 12,000 per month \nBachelor's or family",
+    "created_at": "2026-09-10T08:43:50+05:30",
+    "videos": [],
+    "title": "2 BHK semi furnished  house Upstair Karamana",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "₹",
+          "locale": "hi_IN"
+        },
+        "display": "₹ 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "fair_price": false,
+    "images": [
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/j6bw9zsffkk41-IN/image;s=120x160"
+        },
+        "id": "2137811709",
+        "external_id": "j6bw9zsffkk41-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4xudxvgrltj7-IN/image;s=120x160"
+        },
+        "id": "2137811710",
+        "external_id": "4xudxvgrltj7-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/okzth6een4023-IN/image;s=120x160"
+        },
+        "id": "2137811711",
+        "external_id": "okzth6een4023-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/srcuf7ql7ndn-IN/image;s=120x160"
+        },
+        "id": "2137811712",
+        "external_id": "srcuf7ql7ndn-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/chglydir5hmt3-IN/image;s=120x160"
+        },
+        "id": "2137811713",
+        "external_id": "chglydir5hmt3-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/rzzy9nl5pihf2-IN/image;s=120x160"
+        },
+        "id": "2137811714",
+        "external_id": "rzzy9nl5pihf2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/a29lsqct3cjw-IN/image;s=120x160"
+        },
+        "id": "2137811715",
+        "external_id": "a29lsqct3cjw-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/xtpa1nhij5ti-IN/image;s=120x160"
+        },
+        "id": "2137811716",
+        "external_id": "xtpa1nhij5ti-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4y23xorfh95g2-IN/image;s=120x160"
+        },
+        "id": "2137811717",
+        "external_id": "4y23xorfh95g2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/igfi4b8465n03-IN/image;s=120x160"
+        },
+        "id": "2137811718",
+        "external_id": "igfi4b8465n03-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/hfbgmmzl0n122-IN/image;s=120x160"
+        },
+        "id": "2137811719",
+        "external_id": "hfbgmmzl0n122-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/hlikgag237dd-IN/image;s=120x160"
+        },
+        "id": "2137811720",
+        "external_id": "hlikgag237dd-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/fcxjt15jpojf1-IN/image;s=120x160"
+        },
+        "id": "2137811721",
+        "external_id": "fcxjt15jpojf1-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9prq8zgfhpcp1-IN/image;s=120x160"
+        },
+        "id": "2137811722",
+        "external_id": "9prq8zgfhpcp1-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qp3dftafmq9n2-IN/image;s=120x160"
+        },
+        "id": "2137811723",
+        "external_id": "qp3dftafmq9n2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/cr33opf5u6kt-IN/image;s=120x160"
+        },
+        "id": "2137811724",
+        "external_id": "cr33opf5u6kt-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nx7en54z2s3z2-IN/image;s=120x160"
+        },
+        "id": "2137811725",
+        "external_id": "nx7en54z2s3z2-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/zecsqgicsbeq3-IN/image;s=120x160"
+        },
+        "id": "2137811726",
+        "external_id": "zecsqgicsbeq3-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/zw0f9mfvnr4k-IN/image;s=120x160"
+        },
+        "id": "2137811727",
+        "external_id": "zw0f9mfvnr4k-IN"
+      },
+      {
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/514wjyn79ha61-IN/image;s=120x160"
+        },
+        "id": "2137811728",
+        "external_id": "514wjyn79ha61-IN"
+      }
+    ],
+    "certified_car": false,
+    "user_created_at": "2018-07-23T16:18:29",
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001160",
+      "ADMIN_LEVEL_1_name": "Kerala",
+      "ADMIN_LEVEL_3_id": "4058889",
+      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
+      "SUBLOCALITY_LEVEL_1_id": "5317218",
+      "SUBLOCALITY_LEVEL_1_name": "Karamana"
+    },
+    "main_info": "2 BHK - 2 Bathroom - 650 sqft",
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-09-10T03:13:50+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "268891733",
+    "created_at_first": "2026-09-10T08:43:49+05:30",
+    "locations": [
+      {
+        "attributes": {},
+        "lat": 8.482,
+        "lon": 76.965,
+        "region_id": "2001160",
+        "city_id": "4058889",
+        "district_id": "5317218"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Flats / Apartments",
+        "value": "rent-apartments",
+        "key_name": "Type",
+        "formatted_value": "Flats / Apartments"
+      },
+      {
+        "type": "single",
+        "key": "rooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "BHK",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "bathrooms",
+        "value_name": "2",
+        "value": "2",
+        "key_name": "Bathrooms",
+        "formatted_value": "2"
+      },
+      {
+        "type": "single",
+        "key": "furnished",
+        "value_name": "Semi-Furnished",
+        "value": "semi",
+        "key_name": "Furnishing",
+        "formatted_value": "Semi-Furnished"
+      },
+      {
+        "type": "single",
+        "key": "listed_by",
+        "value_name": "Dealer",
+        "value": "broker",
+        "key_name": "Listed by",
+        "formatted_value": "Dealer"
+      },
+      {
+        "type": "single",
+        "key": "ft",
+        "value_name": "650",
+        "value": "650",
+        "key_name": "Super Builtup area sqft",
+        "formatted_value": "650"
+      },
+      {
+        "type": "single",
+        "key": "carpetarea",
+        "value_name": "700",
+        "value": "700",
+        "key_name": "Carpet Area sqft",
+        "formatted_value": "700"
+      },
+      {
+        "type": "single",
+        "key": "bachelors",
+        "value_name": "Yes",
+        "value": "yes",
+        "key_name": "Bachelors Allowed",
+        "formatted_value": "Yes"
+      },
+      {
+        "type": "single",
+        "key": "facing",
+        "value_name": "East",
+        "value": "east",
+        "key_name": "Facing",
+        "formatted_value": "East"
+      }
+    ],
+    "url": "https://www.olx.in/item/iid-1855190243",
+    "phone": null
+  },
+  {
+    "id": "1855190012",
+    "score": 0.8754789272030651,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "9",
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -11279,12 +11592,12 @@
   },
   {
     "id": "1837930859",
-    "score": 0.8752399232245681,
+    "score": 0.8735632183908046,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -11624,12 +11937,12 @@
   },
   {
     "id": "1846065833",
-    "score": 0.8733205374280231,
+    "score": 0.8716475095785441,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -11996,12 +12309,12 @@
   },
   {
     "id": "1841627632",
-    "score": 0.8714011516314779,
+    "score": 0.8697318007662835,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -12364,12 +12677,12 @@
   },
   {
     "id": "1845826238",
-    "score": 0.8694817658349329,
+    "score": 0.867816091954023,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -13110,12 +13423,12 @@
   },
   {
     "id": "1849667080",
-    "score": 0.8675623800383877,
+    "score": 0.8659003831417624,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -13775,12 +14088,12 @@
   },
   {
     "id": "1849487657",
-    "score": 0.8656429942418427,
+    "score": 0.8639846743295019,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -14279,12 +14592,12 @@
   },
   {
     "id": "1854474398",
-    "score": 0.8637236084452975,
+    "score": 0.8620689655172413,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -15018,12 +15331,12 @@
   },
   {
     "id": "1851255479",
-    "score": 0.8618042226487524,
+    "score": 0.8601532567049809,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -15381,12 +15694,12 @@
   },
   {
     "id": "1855187097",
-    "score": 0.8598848368522073,
+    "score": 0.8582375478927203,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -16049,12 +16362,12 @@
   },
   {
     "id": "1855186102",
-    "score": 0.8579654510556622,
+    "score": 0.8563218390804598,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -16466,12 +16779,12 @@
   },
   {
     "id": "1853099529",
-    "score": 0.8560460652591171,
+    "score": 0.8544061302681992,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -16890,12 +17203,12 @@
   },
   {
     "id": "1855170396",
-    "score": 0.8541266794625719,
+    "score": 0.8524904214559387,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -17174,12 +17487,12 @@
   },
   {
     "id": "1855170240",
-    "score": 0.8522072936660269,
+    "score": 0.8505747126436781,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -17613,12 +17926,12 @@
   },
   {
     "id": "1855168764",
-    "score": 0.8502879078694817,
+    "score": 0.8486590038314177,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
       "version": "9",
-      "main": false,
+      "main": true,
       "facet_disabled": false,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
@@ -17900,368 +18213,5 @@
     ],
     "url": "https://www.olx.in/item/iid-1855168764",
     "phone": "+916282533287"
-  },
-  {
-    "id": "1855168680",
-    "score": 0.8483685220729367,
-    "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
-      "version": "9",
-      "main": false,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "hot": false,
-        "new": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "1723",
-    "user": {
-      "verified_badge": {
-        "is_eligible": true
-      },
-      "features": []
-    },
-    "ad_id": "1855168680",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Mohan Nair",
-    "has_phone_param": true,
-    "description": "2BHK NEAR SABINE HOSPITAL ANAYARA.\n2 Bedroom house with 3 bathrooms \nGround floor of two storied house \n1 covered car parking",
-    "created_at": "2026-09-09T21:47:10+05:30",
-    "videos": [],
-    "title": "2BHK NEAR SABINE HOSPITAL ANAYARA",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 12000,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "₹",
-          "locale": "hi_IN"
-        },
-        "display": "₹ 12,000"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "fair_price": false,
-    "images": [
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/m76os4yhw4si1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/m76os4yhw4si1-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/m76os4yhw4si1-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/m76os4yhw4si1-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/m76os4yhw4si1-IN/image;s=120x90"
-        },
-        "id": "2137405122",
-        "external_id": "m76os4yhw4si1-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/kbuys4n5mcmk1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/kbuys4n5mcmk1-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/kbuys4n5mcmk1-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kbuys4n5mcmk1-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kbuys4n5mcmk1-IN/image;s=120x90"
-        },
-        "id": "2137405123",
-        "external_id": "kbuys4n5mcmk1-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/q107ucq1try9-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/q107ucq1try9-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/q107ucq1try9-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/q107ucq1try9-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/q107ucq1try9-IN/image;s=120x90"
-        },
-        "id": "2137405124",
-        "external_id": "q107ucq1try9-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/nlrx295j24ln2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/nlrx295j24ln2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/nlrx295j24ln2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/nlrx295j24ln2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/nlrx295j24ln2-IN/image;s=120x160"
-        },
-        "id": "2137405125",
-        "external_id": "nlrx295j24ln2-IN"
-      },
-      {
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/jsajpx9b56mr-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/jsajpx9b56mr-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/jsajpx9b56mr-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/jsajpx9b56mr-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/jsajpx9b56mr-IN/image;s=120x160"
-        },
-        "id": "2137405126",
-        "external_id": "jsajpx9b56mr-IN"
-      },
-      {
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/kayr5pv6vopm1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/kayr5pv6vopm1-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/kayr5pv6vopm1-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kayr5pv6vopm1-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kayr5pv6vopm1-IN/image;s=120x90"
-        },
-        "id": "2137405127",
-        "external_id": "kayr5pv6vopm1-IN"
-      }
-    ],
-    "certified_car": false,
-    "user_created_at": "2022-07-07T13:55:01+05:30",
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001160",
-      "ADMIN_LEVEL_1_name": "Kerala",
-      "ADMIN_LEVEL_3_id": "4058889",
-      "ADMIN_LEVEL_3_name": "Thiruvananthapuram",
-      "SUBLOCALITY_LEVEL_1_id": "5317194",
-      "SUBLOCALITY_LEVEL_1_name": "Anayara"
-    },
-    "main_info": "2 BHK - 3 Bathroom - 1000 sqft",
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-09-09T16:17:10+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "551250500",
-    "created_at_first": "2026-09-09T21:47:10+05:30",
-    "locations": [
-      {
-        "attributes": {},
-        "lat": 8.505,
-        "lon": 76.916,
-        "region_id": "2001160",
-        "city_id": "4058889",
-        "district_id": "5317194"
-      }
-    ],
-    "parameters": [
-      {
-        "type": "single",
-        "key": "type",
-        "value_name": "Individual House / Villa",
-        "value": "houses",
-        "key_name": "Type",
-        "formatted_value": "Individual House / Villa"
-      },
-      {
-        "type": "single",
-        "key": "rooms",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "BHK",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "bathrooms",
-        "value_name": "3",
-        "value": "3",
-        "key_name": "Bathrooms",
-        "formatted_value": "3"
-      },
-      {
-        "type": "single",
-        "key": "furnished",
-        "value_name": "Semi-Furnished",
-        "value": "semi",
-        "key_name": "Furnishing",
-        "formatted_value": "Semi-Furnished"
-      },
-      {
-        "type": "single",
-        "key": "listed_by",
-        "value_name": "Owner",
-        "value": "owner",
-        "key_name": "Listed by",
-        "formatted_value": "Owner"
-      },
-      {
-        "type": "single",
-        "key": "ft",
-        "value_name": "1000",
-        "value": "1000",
-        "key_name": "Super Builtup area sqft",
-        "formatted_value": "1000"
-      },
-      {
-        "type": "single",
-        "key": "carpetarea",
-        "value_name": "1000",
-        "value": "1000",
-        "key_name": "Carpet Area sqft",
-        "formatted_value": "1000"
-      },
-      {
-        "type": "single",
-        "key": "bachelors",
-        "value_name": "Yes",
-        "value": "yes",
-        "key_name": "Bachelors Allowed",
-        "formatted_value": "Yes"
-      },
-      {
-        "type": "single",
-        "key": "totalfloors",
-        "value_name": "2",
-        "value": "2",
-        "key_name": "Total Floors",
-        "formatted_value": "2"
-      },
-      {
-        "type": "single",
-        "key": "floorno",
-        "value_name": "0",
-        "value": "0",
-        "key_name": "Floor No",
-        "formatted_value": "0"
-      },
-      {
-        "type": "single",
-        "key": "carparking",
-        "value_name": "1",
-        "value": "1",
-        "key_name": "Car Parking",
-        "formatted_value": "1"
-      },
-      {
-        "type": "single",
-        "key": "facing",
-        "value_name": "West",
-        "value": "west",
-        "key_name": "Facing",
-        "formatted_value": "West"
-      },
-      {
-        "type": "single",
-        "key": "projects",
-        "value_name": "2BHK NEAR SABINE HOSPITAL ANAYARA",
-        "value": "2BHK NEAR SABINE HOSPITAL ANAYARA",
-        "key_name": "Project Name",
-        "formatted_value": "2BHK NEAR SABINE HOSPITAL ANAYARA"
-      }
-    ],
-    "url": "https://www.olx.in/item/iid-1855168680",
-    "phone": null
   }
 ]
