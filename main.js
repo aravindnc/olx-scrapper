@@ -1,7 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-const DEFAULT_API_URL = 'https://api.olx.in/relevance/v4/search?category=1723&facet_limit=1000&location=4058889&location_facet_limit=40&page=1&platform=web-desktop&pttEnabled=true&relaxedFilters=true&size=40&user=anonymous&lang=en-IN';
+const DEFAULT_API_URL = 'https://api.olx.in/relevance/v4/search?category=1723&facet_limit=1000&location=4058889&location_facet_limit=40&page=1&platform=web-desktop&pttEnabled=true&price_max=20000&relaxedFilters=true&size=40&user=anonymous&lang=en-IN';
 
 const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
